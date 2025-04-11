@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xokitten999
+- 👋 Hi, I’m Winter!
 - 👀 I’m interested in both tech and nature
 - 🌱 I’m currently learning python and security operations for cyber sec
 - 💞️ I’m looking to collaborate on projects
